@@ -16,3 +16,7 @@ Dynamic Content: The website is built with a dynamic content management system, 
 <div align="center">
   <a href="https://responsive-portfolio-website-eta.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
+
+## Snapshots:
+## Home
+<img src="" />
