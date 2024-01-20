@@ -24,5 +24,8 @@ Dynamic Content: The website is built with a dynamic content management system, 
 ## About Me
 <img src="https://github.com/SrijanGulati36/Responsive-Portfolio-Website/blob/main/images/Demo2.png" />
 
-## Projects
-<img src=""/>
+## My Projects
+<img src="https://github.com/SrijanGulati36/Responsive-Portfolio-Website/blob/main/images/Demo3.png"/>
+
+## Skills
+<img src="" />
