@@ -14,5 +14,5 @@ Contact Form: Reach out to me easily using the integrated contact form.
 Dynamic Content: The website is built with a dynamic content management system, allowing for easy updates and additions.
 
 <div align="center">
-  <a href="https://book-my-show-clone-teal.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://responsive-portfolio-website-eta.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
