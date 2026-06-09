@@ -1,17 +1,17 @@
-# My Portfolio Website :
-Welcome to my portfolio website! This web application serves as a showcase of my skills, projects, and experiences. Whether you're a potential employer, collaborator, or just curious about my work, this is the place to learn more about what I have to offer.
+# Personal Developer Portfolio 🚀
 
-Features :
+A fully responsive personal portfolio website showcasing projects, 
+skills, and experience as a Full-Stack Software Engineer.
 
-Responsive Design: The website is optimized for various screen sizes, ensuring a seamless experience across devices.
+## ✨ Features & Highlights
+- Fully responsive across desktop, tablet, and mobile devices
+- Dynamic project showcase with descriptions and tech stack
+- Integrated contact form for direct outreach
+- Skills overview section highlighting core technical competencies
+- Clean, modern UI with smooth navigation
 
-Project Showcase: Explore details about my featured projects, including descriptions and technologies used.
-
-Skills Overview: Get insights into my technical skills and areas of expertise.
-
-Contact Form: Reach out to me easily using the integrated contact form.
-
-Dynamic Content: The website is built with a dynamic content management system, allowing for easy updates and additions.
+## 🛠️ Tech Stack
+HTML5 · CSS3 · JavaScript · Responsive Design · Vercel
 
 <div align="center">
   <a href="https://responsive-portfolio-website-eta.vercel.app/"><strong>➥ Live Demo</strong></a>
