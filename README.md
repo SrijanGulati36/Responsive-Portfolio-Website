@@ -14,7 +14,7 @@ skills, and experience as a Full-Stack Software Engineer.
 HTML5 · CSS3 · JavaScript · Responsive Design · Vercel
 
 <div align="center">
-  <a href="https://responsive-portfolio-website-eta.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://responsive-portfolio-website-srijan-gulatis-projects.vercel.app/"><strong>➥ Live Demo</strong></a>
 </div>
 
 ## Snapshots:
